@@ -6,7 +6,7 @@ import intradoc.common.*;
 import intradoc.data.*;
 import intradoc.server.*;
 import intradoc.shared.*;
-import oracle.stellent.ridc.model.DataBinder;
+
 
 
 public class myCheckinClass extends ServiceHandler
